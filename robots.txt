@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://westlandwaterheater.com/sitemap.xml
